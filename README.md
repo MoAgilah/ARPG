@@ -19,7 +19,7 @@ Unity 2D Action RPG addresses this challenge by organising gameplay into focused
 ## Project Architecture
 
 <p align="center">
-  <img width="500" alt="Unity2DActionRPG (1)" src="https://github.com/user-attachments/assets/e0eedcc5-3a59-491f-991f-2f1cbfdf2a54" />
+  <img width="500" alt="Unity2DActionRPG" src="https://github.com/user-attachments/assets/f7773c31-7580-417a-a2bb-d50be0feefc7" />
 </p>
 
 The project is organised into distinct gameplay layers that separate presentation, gameplay systems, progression, data management and Unity engine services. Gameplay features remain encapsulated within focused components while configurable data is managed independently through reusable assets, allowing systems to evolve without unnecessary coupling.
